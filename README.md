@@ -1,2 +1,3 @@
 # hello-world-jupyter
-Testing pushing Jupyter Notebook to GitHub.
+
+I'm glad that this push to GitHub worked! Now just going to make sure I'm able to modify files by pushing to GitHub.
